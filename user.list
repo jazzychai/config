@@ -6,3 +6,7 @@ DOMAIN-KEYWORD,epicgames
 
 #duolingo
 DOMAIN-KEYWORD,duolingo
+
+#战网外服
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
