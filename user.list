@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,blizzard.com
 
 #v2fly
 DOMAIN-SUFFIX,v2fly.org
+
+#oracle
+DOMAIN-SUFFIX,download.oracle.com
