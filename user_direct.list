@@ -1,5 +1,10 @@
+# 自有域名
 DOMAIN-SUFFIX,v2oa.com
+
+# 群晖
 DOMAIN-SUFFIX,myds.me
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,quickconnect.to
+
+# zerotier
 DST-PORT,9993
